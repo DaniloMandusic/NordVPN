@@ -25,6 +25,6 @@ nordvpn.disconnect() - disconnects from NordVPN
 
 You can find them all in examples.js file
 
-##Enjoy,
-##Danilo Mandusic
+## Enjoy,
+## Danilo Mandusic
 
