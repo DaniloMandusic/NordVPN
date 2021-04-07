@@ -1,4 +1,4 @@
-### NordVPN
+# NordVPN
 
 ## About
 Library for connecting to NordVPN servers on windows OS. 
