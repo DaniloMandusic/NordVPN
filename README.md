@@ -23,6 +23,8 @@ nordvpn.connectToServer('United States #3710') - connects to specific server
 
 nordvpn.disconnect() - disconnects from NordVPN
 
-Enjoy,
-Danilo Mandusic
+You can find them all in examples.js file
+
+##Enjoy,
+##Danilo Mandusic
 
